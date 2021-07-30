@@ -1,4 +1,4 @@
-form fliask import Flask
+form flask import Flask
 app = Falsk(__name__)
 @app.route('/')
 def index():
